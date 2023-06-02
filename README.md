@@ -1,6 +1,6 @@
 # Dynamic Models for Building Energy Management
 
-Our Binder : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dm4bem-2023/5-reproducible-report-thomas-eryne-koechlin-claire/HEAD)
+Our Binder : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dm4bem-2023/5-reproducible-report-thomas-eryne-koechlin-claire/HEAD)  
 Group : Claire Koechlin and Eryne Thomas
 
 ## Project sessions
