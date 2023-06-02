@@ -85,3 +85,5 @@ The general structure of the report:
 - Steady-state results.
 - Dynamic simulation results.
 - Optimization (e.g., insulation, HVAC control, ventilation rate, solar shading).
+  
+Test : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dm4bem-2023/5-reproducible-report-thomas-eryne-koechlin-claire)
